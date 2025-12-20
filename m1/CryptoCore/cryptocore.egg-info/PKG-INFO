@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: cryptocore
+Version: 1.0.0
+Summary: Шифрование файлов AES-128 ECB
+Requires-Python: >=3.6
+Requires-Dist: pycryptodome>=3.10.0
