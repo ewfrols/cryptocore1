@@ -1,7 +1,7 @@
 pip install -r requirements.txt
 cd путь 3
 python финальный_тест_спринт3.py
-
+cd ../..
 cd pyt' 4
 python final_sprint4_test.py
 python -m pytest tests/test_sha256_correct.py -v
