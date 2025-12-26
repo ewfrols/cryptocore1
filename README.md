@@ -1,3 +1,4 @@
+pip install -r requirements.txt
 cd путь 3
 python финальный_тест_спринт3.py
 
@@ -14,3 +15,6 @@ python test_gcm_fixed.py
 python cryptocore_simple.py
 python final_test.py
 python final_demo.py
+
+key 00112233445566778899aabbccddeeff
+“my data”
