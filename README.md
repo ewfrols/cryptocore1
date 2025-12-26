@@ -1,4 +1,5 @@
 pip install -r requirements.txt
+ls -l requirements.txt
 cd путь 3
 python финальный_тест_спринт3.py
 cd ../..
