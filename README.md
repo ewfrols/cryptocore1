@@ -25,3 +25,10 @@ source venv/bin/activate
 pip install requirements.txt
 pip install -e .
 pip install cryptocore
+
+.\tests\sprint3_test.ps1
+.\tests\test_csprng_comprehensive.ps1  
+.\tests\integration_test.ps1
+python tests/test_hash_functions.py
+.\tests\test_sprint4_cli.ps1
+.\tests\roundtrip_test.ps1
