@@ -18,3 +18,10 @@ python final_demo.py
 
 key 00112233445566778899aabbccddeeff
 “my data”
+
+cd cryptocore
+python -m venv venv
+source venv/bin/activate
+pip install requirements.txt
+pip install -e .
+pip install cryptocore
