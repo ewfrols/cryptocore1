@@ -18,6 +18,7 @@ python final_demo.py
 
 key 00112233445566778899aabbccddeeff
 “my data”
+echo "Hi its my cryptocore project" > file.txt
 
 cd cryptocore
 python -m venv venv
